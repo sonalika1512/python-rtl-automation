@@ -23,6 +23,7 @@ Through this repository, we will gradually move from basic Python programming to
 
 🛣️ Learning Roadmap
 The learning journey is divided into different stages. Each stage builds on the concepts learned in the previous one.
+
 Phase 1: Python Fundamentals
 Learn the basic concepts required to write Python programs.
 
@@ -38,6 +39,7 @@ Topics:
 - Modules and Packages
 - Exception Handling
 Goal: Become comfortable writing basic Python programs independently.
+
 Phase 2: Intermediate Python
 Learn how to write structured and reusable programs.
 
@@ -54,6 +56,7 @@ Topics:
 - OS and Pathlib Modules
 - Subprocess Module
 Goal: Learn to work with files, directories, data, and external tools using Python.
+
 Phase 3: Python for RTL Automation
 Apply Python concepts to tasks commonly performed by RTL engineers.
 
@@ -70,6 +73,7 @@ Topics:
 - Generating Simulation Reports
 - Automating Regression Runs
 Goal: Reduce repetitive manual work through Python scripting.
+
 Phase 4: Practical RTL Automation Projects
 Build small projects using the concepts learned in previous phases.
 
@@ -97,7 +101,7 @@ Planned projects:
    - Run multiple test cases.
    - Collect simulation results.
 
-⚙️ Tools and Technologies
+# ⚙️ Tools and Technologies
 The following tools will be used throughout this learning journey:
 Tool	Purpose
 Python	Scripting and automation
@@ -107,7 +111,7 @@ Verilog	RTL design examples
 Cadence Xcelium	RTL compilation and simulation
 Cadence SimVision	Waveform viewing and debugging
 
-🎯 Final Objective
+# 🎯 Final Objective
 By the end of this learning journey, I aim to:
 - Develop strong Python programming fundamentals.
 - Write reusable automation scripts.
@@ -116,7 +120,7 @@ By the end of this learning journey, I aim to:
 - Build Python-based regression automation.
 - Understand how scripting improves productivity in semiconductor engineering.
   
-👩‍💻 About This Journey
+# 👩‍💻 About This Journey
 I am an RTL Design Engineer, currently exploring Python to strengthen my programming and hardware design automation skills.
 
 This repository is a practical learning journal. It is intended for beginners, students, and RTL/VLSI engineers who want to understand Python and gradually apply it to real engineering workflows.
