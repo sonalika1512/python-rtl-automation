@@ -96,5 +96,35 @@ Planned projects:
 5. Regression Automation
    - Run multiple test cases.
    - Collect simulation results.
+
+⚙️ Tools and Technologies
+The following tools will be used throughout this learning journey:
+Tool	Purpose
+Python	Scripting and automation
+Linux	Working with files and commands
+Git & GitHub	Version control and tracking progress
+Verilog	RTL design examples
+Cadence Xcelium	RTL compilation and simulation
+Cadence SimVision	Waveform viewing and debugging
+
+🎯 Final Objective
+By the end of this learning journey, I aim to:
+- Develop strong Python programming fundamentals.
+- Write reusable automation scripts.
+- Automate RTL compilation and simulation workflows.
+- Analyze simulation logs and generate reports.
+- Build Python-based regression automation.
+- Understand how scripting improves productivity in semiconductor engineering.
+  
+👩‍💻 About This Journey
+I am an RTL Design Engineer, currently exploring Python to strengthen my programming and hardware design automation skills.
+
+This repository is a practical learning journal. It is intended for beginners, students, and RTL/VLSI engineers who want to understand Python and gradually apply it to real engineering workflows.
+
+Learn → Practice → Automate → Build
+
+Happy Learning! 🚀
+
+If you find this repository useful, feel free to ⭐ star it and follow along!
    - Identify failed tests.
    - Generate a regression summary.
