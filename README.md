@@ -1,4 +1,4 @@
-Python for RTL Engineering 🐍
+#Python for RTL Engineering 🐍
 Welcome to Python for RTL Engineering!
 
 This repository documents my daily journey of learning Python, starting from the fundamentals and gradually moving towards practical automation used in RTL Design and VLSI engineering.
